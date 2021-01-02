@@ -3,9 +3,7 @@
 <p align='left'>
   EPAM Java software engineer.
 
-  I'm also working on my project named "Lumbar Spine".
-
-  Contact me if you want to participate in my project.
+  I'm also working on my project named "Lumbar Spine". Contact me if you want to participate in my project.
 </p>
 
 ## Some of my Github Stats
