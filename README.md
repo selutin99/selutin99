@@ -1,7 +1,7 @@
 ## Hey 👋, This is Alexander Seliutin
 [![Yandex Badge](https://img.shields.io/badge/-cool.selutin99@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cool.selutin99@yandex.ru)](mailto:cool.selutin99@yandex.ru) [![Github Badge](https://img.shields.io/badge/-selutin99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/selutin99/)](https://www.github.com/selutin99/) 
 <p align='left'>
-  i-Teco Senior Java software engineer.
+  OpenDev Java software engineer.
 
   I'm also working on my project named "lumbar-spine". Contact me if you want to participate in my project.
 </p>
