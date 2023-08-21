@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Alexander Selyutin</h1>
-<br>
 
 <h3 align="left">About me:</h4>
 💻 <a href="https://opendev.com/" target="_blank">OpenDev</a> senior java developer<br>
