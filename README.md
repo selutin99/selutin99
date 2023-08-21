@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexander Selyutin</h1>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selutin99&label=Profile%20views&color=0e75b6&style=flat" alt="selutin99" /> </p>
+<br>
 
 <h4 align="left">About me:</h4>
 💻 <a href="https://opendev.com/">OpenDev</a> senior java developer<br>
@@ -8,10 +8,10 @@
 🎓 Postgraduate student in SSC SFC of RAN<br>
 
 <h4 align="left">My status:</h4>
-🌱 I’m currently learning **Kotlin**<br>
-🤝 I’m looking for help with **relocation in Europe and Southeast Asia**<br>
+🌱 I’m currently learning <b>Kotlin</b><br>
+🤝 I’m looking for help with <b>relocation in Europe and Southeast Asia</b><br>
 📝 I regularly write articles on <a href="https://habr.com/ru/users/galua/publications/articles/">Habr</a><br>
-💬 Ask me about **Spring and Java**<br>
+💬 Ask me about <b>Spring and Java</b><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
