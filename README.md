@@ -3,7 +3,7 @@
 <h3 align="left">About me:</h4>
 💻 <a href="https://opendev.com/" target="_blank">OpenDev</a> senior java developer<br>
 📚 Java-expert in <a href="https://netology.ru/" target="_blank">Netology</a><br>
-🎓 Postgraduate student in SSC SFC of RAN<br>
+🎓 Postgraduate student in <a href="http://xn--80azbkd5a.xn--p1ai/" target="_blank">SFC SSC RAN</a><br>
 
 <h3 align="left">My status:</h4>
 🌱 I’m currently learning <b>Kotlin</b><br>
