@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Alexander Selyutin</h1>
 <br>
 
-<h4 align="left">About me:</h4>
-💻 <a href="https://opendev.com/">OpenDev</a> senior java developer<br>
-📚 Java-expert in <a href="https://netology.ru/">Netology</a><br>
+<h3 align="left">About me:</h4>
+💻 <a href="https://opendev.com/" target="_blank">OpenDev</a> senior java developer<br>
+📚 Java-expert in <a href="https://netology.ru/" target="_blank">Netology</a><br>
 🎓 Postgraduate student in SSC SFC of RAN<br>
 
-<h4 align="left">My status:</h4>
+<h3 align="left">My status:</h4>
 🌱 I’m currently learning <b>Kotlin</b><br>
 🤝 I’m looking for help with <b>relocation in Europe and Southeast Asia</b><br>
 📝 I regularly write articles on <a href="https://habr.com/ru/users/galua/publications/articles/">Habr</a><br>
@@ -19,6 +19,7 @@
   <a href="https://t.me/mr_galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/telegram.svg" height="30" width="40" /></a>
 </p>
 
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selutin99" alt="selutin99" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
