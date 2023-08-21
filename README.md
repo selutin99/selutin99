@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/@galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@galua" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@galua/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@galua" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/alexander-selyutin-238927285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@galua" height="30" width="40" /></a>
   <a href="https://t.me/mr_galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/telegram.svg" height="30" width="40" /></a>
 </p>
