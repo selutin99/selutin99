@@ -1,9 +1,9 @@
 ## Hey 👋, This is Alexander Seliutin
 [![Yandex Badge](https://img.shields.io/badge/-aseliutin@ya99.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aseliutin@ya99.ru)](mailto:aseliutin@ya99.ru) [![Github Badge](https://img.shields.io/badge/-selutin99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/selutin99/)](https://www.github.com/selutin99/) 
 <p align='left'>
-  OpenDev Java software engineer. Java-expert in Netology. DevOps engineer in Exarcheia LLC.
+  OpenDev Java software engineer. Java-expert in Netology.
 
-  I'm also working on my project named "partus-dirige". Contact me if you want to participate in my project.
+  I am open to vacancies with relocation in Europe and Southeast Asia.
 </p>
 
 ## Some of my Github Stats
