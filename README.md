@@ -19,9 +19,6 @@
   <a href="https://t.me/mr_galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/telegram.svg" height="30" width="40" /></a>
 </p>
 
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selutin99" alt="selutin99" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   BackEnd:
@@ -62,3 +59,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
+
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selutin99" alt="selutin99" /></a> </p>
