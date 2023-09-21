@@ -7,7 +7,7 @@
 
 <h3 align="left">My status:</h4>
 🌱 I’m currently learning <b>Kotlin</b><br>
-🤝 I’m looking for help with <b>relocation in Europe and Southeast Asia</b><br>
+🤝 I’m looking for help with <b>relocation in Europe or Southeast Asia</b><br>
 📝 I regularly write articles on <a href="https://habr.com/ru/users/galua/publications/articles/">Habr</a><br>
 💬 Ask me about <b>Spring and Java</b><br>
 
