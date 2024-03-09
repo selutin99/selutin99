@@ -1,9 +1,5 @@
 ## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-#### Contact me
-- <a href="https://www.linkedin.com/in/alexander-selyutin-238927285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@galua" height="30" width="40" /></a>
-- <a href="https://t.me/mr_galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/telegram.svg" height="30" width="40" /></a>
-
 ### My name is Alexander Selyutin and I'm: 
 - 💻 <a href="https://opendev.com/" target="_blank">OpenDev</a> senior java developer<br>
 - 📚 Java-expert in <a href="https://netology.ru/" target="_blank">Netology</a><br>
@@ -15,5 +11,7 @@
 💬 Ask me about <b>Spring, Java and Python</b><br>
 
 #### I am open to cooperation. Please contact me if you have an ideas
+- <a href="https://www.linkedin.com/in/alexander-selyutin-238927285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@galua" height="30" width="40" /></a>
+- <a href="https://t.me/mr_galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/telegram.svg" height="30" width="40" /></a>
 
 <p> <img src=https://komarev.com/ghpvc/?username=selutin99 alt=selutin99 /> </p>
