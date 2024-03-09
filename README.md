@@ -11,6 +11,11 @@
 🤝 I’m looking for help with <b>relocation in Southeast Asia</b><br>
 💬 Ask me about <b>Spring, Java and Python</b><br>
 
+- **FrontEnd**: HTML, CSS, JavaScript, React (basic)
+- **BackEnd**: Java, Spring Boot, Python, Flask, Django
+- **DB**: PostgreSQL, MongoDB, MySQL, Redis, CouchBase, AWS RDS, DynamoDB, OracleDB
+- ⚙: Git, GitHub, Kafka, Docker, Ansible, K8S, OpenShift
+
 #### I am open to cooperation. Please contact me if you have an ideas
 <a href="https://www.linkedin.com/in/alexander-selyutin-238927285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@galua" height="30" width="40" /></a>
 <a href="https://t.me/mr_galua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/telegram.svg" height="30" width="40" /></a>
