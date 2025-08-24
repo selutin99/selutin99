@@ -11,8 +11,8 @@
 
 ### 🛠 Technical skills
 **Frontend**: HTML, CSS, JavaScript, React (basic)<br>
-**Backend**: Java: Kotlin, Spring Boot, Apache Kafka, Groovy, Jasper Reports, Apache Camel, Hystrix, Lucene, Jetty, JMeter, JUnitS, TestNG, Cucumber
-**DBMS**: PostgreSQL, MongoDB, Oracle Database, MySQL, Microsoft SQL Server, NoSQL, Tarantool, Couchbase
-**Other**: AWS, Redis, ELK, Docker, K8S, lstio, OpenAPI, IBM MQ, Grafana, Prometheus, Flask, Renovate, Sonarqube, AnsiЫe, Jenkins, CI/CD, RESТful WebServices 
+**Backend**: Java: Kotlin, Spring Boot, Apache Kafka, Groovy, Jasper Reports, Apache Camel, Hystrix, Lucene, Jetty, JMeter, JUnitS, TestNG, Cucumber<br>
+**DBMS**: PostgreSQL, MongoDB, Oracle Database, MySQL, Microsoft SQL Server, NoSQL, Tarantool, Couchbase<br>
+**Other**: AWS, Redis, ELK, Docker, K8S, lstio, OpenAPI, IBM MQ, Grafana, Prometheus, Flask, Renovate, Sonarqube, AnsiЫe, Jenkins, CI/CD, RESТful WebServices
 
 #### I am open to cooperation. Please contact me if You have ideas
