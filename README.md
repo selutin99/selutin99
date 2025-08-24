@@ -10,9 +10,9 @@
 💬 Ask me about <b>Spring, Java and Python</b><br>
 
 ### 🛠 Technical skills
-**FrontEnd**: HTML, CSS, JavaScript, React (basic)<br>
-**BackEnd**: Java, Spring Boot, Python, Flask, Django<br>
-**DB**: PostgreSQL, MongoDB, MySQL, Redis, CouchBase, AWS RDS, DynamoDB, OracleDB<br>
-⚙: Git, GitHub, Kafka, Docker, Ansible, K8S, OpenShift<br>
+**Frontend**: HTML, CSS, JavaScript, React (basic)<br>
+**Backend**: Java: Kotlin, Spring Boot, Apache Kafka, Groovy, Jasper Reports, Apache Camel, Hystrix, Lucene, Jetty, JMeter, JUnitS, TestNG, Cucumber
+**DBMS**: PostgreSQL, MongoDB, Oracle Database, MySQL, Microsoft SQL Server, NoSQL, Tarantool, Couchbase
+**Other**: AWS, Redis, ELK, Docker, K8S, lstio, OpenAPI, IBM MQ, Grafana, Prometheus, Flask, Renovate, Sonarqube, AnsiЫe, Jenkins, CI/CD, RESТful WebServices 
 
 #### I am open to cooperation. Please contact me if You have ideas
