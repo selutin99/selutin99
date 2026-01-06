@@ -1,5 +1,4 @@
 ## Hello there 👋
-![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=selutin99)
 
