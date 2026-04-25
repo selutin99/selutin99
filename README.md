@@ -4,7 +4,7 @@
 
 ### My name is Alexander Selyutin and I'm:
 💻 Java Technical Lead at [Alfa-Bank](https://alfabank.ru/)  
-🎓 Doctor of Engineering, former Research Fellow at [Saratov Research Center](https://iptmuran.ru/personality/%D1%81%D0%B5%D0%BB%D1%8E%D1%82%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87/)
+🎓 Doctor of Engineering, Former Research Fellow at [Saratov Research Center](https://iptmuran.ru/personality/%D1%81%D0%B5%D0%BB%D1%8E%D1%82%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87/)
 
 ### My status:
 🤝 I’m looking for help with **relocation in Southeast Asia**  
