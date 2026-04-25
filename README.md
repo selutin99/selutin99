@@ -10,7 +10,7 @@
 🤝 I’m looking for help with **relocation in Southeast Asia**  
 💬 Ask me about **Spring, Java and Python**
 
-**Frontend**: HTML, CSS, JavaScript, React
+**Frontend**: HTML, CSS, JavaScript, React  
 **Backend**: Java, Kotlin, Spring Boot, Apache Kafka, Groovy, Jasper Reports, Apache Camel, Hystrix, Lucene, Jetty, JMeter, JUnit, TestNG, Cucumber  
 **DBMS**: PostgreSQL, MongoDB, Oracle Database, MySQL, Microsoft SQL Server, NoSQL, Tarantool, Couchbase  
 **Other**: AWS, Redis, ELK, Docker, Kubernetes, Istio, OpenAPI, IBM MQ, Grafana, Prometheus, Flask, Renovate, SonarQube, Ansible, Jenkins, CI/CD, RESTful Web Services
